@@ -1,4 +1,6 @@
-# Fluoride Bluetooth stack
+#Thanks to:
+
+##Fluoride Bluetooth stack
 
 ## Building and running on AOSP
 Just build AOSP - Fluoride is there by default.
